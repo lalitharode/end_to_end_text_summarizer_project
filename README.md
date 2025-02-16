@@ -115,7 +115,7 @@ Email: krishnaik06@gmail.com
 	newgrp docker
 	
 # 6. Configure EC2 as self-hosted runner:
-    setting>actions>runner>new self hosted runner> choose os> then run command one by one
+    setting>actions>runner>new self hosted runner> choose os> then run command one by one to do this
 
 
 # 7. Setup github secrets:
