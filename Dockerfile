@@ -12,4 +12,3 @@ RUN pip install transformers accelerate
 
 CMD ["python3", "app.py"]
 
-# working fine
